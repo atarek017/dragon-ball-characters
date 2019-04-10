@@ -2,7 +2,7 @@
 
 -app show information about dragon ball anime characters.
 
- <ln>#using :</ln>
+ #using :
 -PageView
 -ScopedModel
--animation
+-Animation
